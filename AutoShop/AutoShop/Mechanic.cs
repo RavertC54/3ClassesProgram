@@ -18,11 +18,7 @@ namespace AutoShop
 
         public Mechanic()
         {
-            if (Experience < 2)
-            {
-                Console.WriteLine("An mechanic has just been hired.");
-            }
-            
+            Console.WriteLine("A mechanic has just been hired.");
         }
     }
 }

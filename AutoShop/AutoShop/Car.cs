@@ -20,7 +20,7 @@ namespace AutoShop
 
         public Car()
         {
-            Console.WriteLine("A new car has been added to the books");
+            Console.WriteLine("A new car has been added to the books.");
         }
     }
 }
