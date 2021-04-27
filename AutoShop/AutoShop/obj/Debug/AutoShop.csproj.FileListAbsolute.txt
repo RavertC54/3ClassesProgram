@@ -1,0 +1,7 @@
+D:\Github\3ClassesProgram\3ClassesProgram\AutoShop\AutoShop\bin\Debug\AutoShop.exe.config
+D:\Github\3ClassesProgram\3ClassesProgram\AutoShop\AutoShop\bin\Debug\AutoShop.exe
+D:\Github\3ClassesProgram\3ClassesProgram\AutoShop\AutoShop\bin\Debug\AutoShop.pdb
+D:\Github\3ClassesProgram\3ClassesProgram\AutoShop\AutoShop\obj\Debug\AutoShop.csprojAssemblyReference.cache
+D:\Github\3ClassesProgram\3ClassesProgram\AutoShop\AutoShop\obj\Debug\AutoShop.csproj.CoreCompileInputs.cache
+D:\Github\3ClassesProgram\3ClassesProgram\AutoShop\AutoShop\obj\Debug\AutoShop.exe
+D:\Github\3ClassesProgram\3ClassesProgram\AutoShop\AutoShop\obj\Debug\AutoShop.pdb
